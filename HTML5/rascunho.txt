@@ -1,0 +1,11 @@
+Boa Tarde,
+Lí Sobre a ideia dos bots e
+ achei bem interessante,acredito que atualmente para a Evolution não existe a 
+ necessidade de termos um bot automatizado atendendo aos clientes
+ (pelo menos não atualmente),mas seria bom estudarmos
+ essa ideia para podermos vender como um serviço oferecido pela Evolution.
+ Apesar de encarar essa ideia com bons olhos,acredito que precisamos dividir em etapas as implementações que utilizaremos na empresa(que eu desenvolverei no caso),
+ 1=começando pela parte de Sites,espero terminar primeiro essa parte de Site já mantendo o site da Evolution bem estruturado antes de tudo(até porque vendemos sites e nosso site tem que ser o exemplo de nossas capacidades com programação),
+ 2=Estou estudando junto com técnicas de sites(lembrando HTML,CSS e aprimorando meus antigos conhecimentos),programação de sistemas web,até por acreditar que essa parte é mais complexa e acaba sendo a mais procurada por empresas que desejam oferecer melhores maneiras de controle e acessibilidade,tanto de conteudo quanto de clientes.
+ 3=A Terceira implementação que sugiro que façamos é a de termos nosso próprio aplicativo,como eu havia dito por aúdio anteriormente,talvez não seja algo de extrema importancia,mas isso irá ajudar a sermos vistos como uma empresa mais atualizada com o mercado tecnologico e uma empresa apta a oferecer aplicativos já que a evolution terá seu próprio app funcional.
+ 4=Podemos pesquisar sobre a tecnologia de bots e estudarmos como venderemos esse tipo de serviço(após um profundo estudo sobre tecnologias e recursos necessários para que bots funcionem com o menor número de bugs possiveis(se possivel,0 bugs kkk))
